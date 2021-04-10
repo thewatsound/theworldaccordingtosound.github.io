@@ -4,7 +4,7 @@ title: hiring
 permalink: /hiring/
 ---
 
-<b>Title: Development Coordinator and Manager</b>
+<b>Job Title: Development Coordinator and Manager</b>
 
 <b>Introduction</b><br>
 <a href="https://www.theworldaccordingtosound.org">The World According to Sound</a> is looking to form new partnerships with organizations interested in making, distributing, and promoting critical and formally innovative audio.
