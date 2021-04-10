@@ -12,7 +12,7 @@ permalink: /hiring/
 <b>Who We Are</b><br>
 We (Chris Hoff and Sam Harnett) are a two-person audio team that collaborates with media outlets, arts organizations, academic institutions, and centers for the blind to make radio and live sound events. We produce a podcast, an 8-channel live sound event, a streaming listening series, and critical radio documentaries. The mission of The World According to Sound is twofold: to create experiential, immersive, communal sound events and to produce audio journalism that critiques neoliberalism and challenges the formal conventions of public radio.
 
-In the last five years, we’ve performed at more than 75 venues, received grants from California Humanities and the Zellerbach Foundation, guest lectured at 20 institutions including a semester-long residency at Cornell, formed partnerships with Meyer Sound and the LightHouse for the Blind, and worked with artists like the Kronos Quartet and Matmos. For a taste of the listening series, check out our interview on <a href="https://transom.org/2020/a-night-of-ear-candy-sam-harnett-and-chris-hoff/">HowSound</a>; and for an example of our journalistic work, you can take a listen to an excerpt of the <a href="https://www.kqed.org/howwegothere">How We Got Here</a> radio series.
+In the last five years, we’ve performed at more than 75 venues, received grants from California Humanities and the Zellerbach Foundation, guest lectured at 20 institutions including a semester-long residency at Cornell, formed partnerships with Meyer Sound and the LightHouse for the Blind, and worked with artists like the Kronos Quartet and Matmos. Here is a link to the first episode of our recent listening series, <a href="https://soundcloud.com/worldaccordingtosound/wats-pandemic-show-outside-in-1232020/s-Nb7sqockuge">Outside In</a>; and for an example of our journalistic work, you can take a listen to an excerpt of the <a href="https://www.kqed.org/howwegothere">How We Got Here</a> radio series.
 
 <b>Job Description</b><br>
 The World According to Sound has a body of sound work both in journalism and in experiential live events that you would be pitching to prospective partners. The job would be remote and 10-20 hours a week.
@@ -26,6 +26,7 @@ The World According to Sound has a body of sound work both in journalism and in 
 <li>Locate audio festivals and conferences where we could perform/present</li>
 <li>Establish partnerships with progressive organizations and critical media outlets to produce and distribute documentaries about capitalism and inequality</li>
 <li>Coordinate with organizations for the blind to create and distribute content</li>
+<li>Keep a detailed document of dates, contacts, and outreach plan</li>
   </ul>
 
 <i>Secondary Objectives</i>
@@ -41,7 +42,7 @@ The World According to Sound has a body of sound work both in journalism and in 
 <ul>
 <li>Monthly retainer fee depending on experience and availability ($1,000 - $2,000)</li>
 <li>10% commission on any new partnerships and projects you establish</li>
-<li>3-6 month initial contract, with the potential for extension</li>
+<li>Up to 6 month initial contract, with the potential for extension</li>
 <li>Additional compensation possible for on-going project management duties</li>
   </ul>
 
